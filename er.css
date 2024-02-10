@@ -1,21 +1,23 @@
-.cake{
-   background-color: aqua;
-    width: 100%;
-        background: #D8E3AB;
-        height: 70px;
-
-
+.cake {
+  background-color: aqua;
+  width: 100%;
+  background: #d8e3ab;
+  height: 70px;
 }
-.header{
-    background-color: aquamarine;
-    padding-left: 500px;
-    padding-right: 24px;
-    display: flex;
-    justify-content: space-between;
+.header {
+  background-color: aquamarine;
+  padding-left: 500px;
+  padding-right: 24px;
+  display: flex;
+  justify-content: space-between;
 }
-.tort{
-    height: 50px;
-    width: 50px;
-    display: flex;
-
+.tort {
+  height: 50px;
+  width: 50px;
+  display: flex;
+}
+#conteiner {
+  border: 2px solid black;
+  width: 500px;
+  height: 300px;
 }
